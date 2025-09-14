@@ -1,7 +1,9 @@
-# To-Do App
+# What Todo Next
 (Next.js + FastAPI + PostgreSQL)
 
-A **minimal full-stack To-Do application** built with:
+![App Screenshot](./screenshot.png)
+
+A full-stack To-Do application for **Go Getters** built with:
 
 - **Frontend**: [Next.js 15](https://nextjs.org/) + Tailwind CSS  
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/)  
@@ -98,11 +100,6 @@ App runs: [http://localhost:3000](http://localhost:3000)
 - `POST /todos` → Create new todo
 - `PUT /todos/{id}` → Update todo (toggle completed, edit title)
 - `DELETE /todos/{id}` → Delete todo
-
----
-
-## Screenshots
-...
 
 ---
 
