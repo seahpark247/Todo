@@ -1,7 +1,7 @@
 # What Todo Next
 (Next.js + FastAPI + PostgreSQL)
 
-<img src="./screenshot.png" alt="App Screenshot" style="width:50%;"/>
+<img src="./screenshot.png" alt="App Screenshot" width="400"/>
 
 A full-stack To-Do application for **Go Getters** built with:
 
