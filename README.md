@@ -1,4 +1,5 @@
-# To-Do App (Next.js + FastAPI + PostgreSQL)
+# To-Do App
+(Next.js + FastAPI + PostgreSQL)
 
 A **minimal full-stack To-Do application** built with:
 
